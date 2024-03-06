@@ -1,6 +1,6 @@
 # Thread Pool
 
-Implemented a generic thread pool, then use it to traverse a graph and compute the sum of the elements contained by the nodes.
+Implemented a generic thread pool, then used it to traverse a graph and compute the sum of the elements contained by the nodes.
 
 The threads are created when the thread pool is created.
 Each thread continuously polls the task queue for available tasks.
